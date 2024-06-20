@@ -1,6 +1,12 @@
 Cipher X - Expense Tracker
 Cipher X is a powerful and easy-to-use expense tracking application developed using Flutter. With Cipher X, you can manage your expenses effortlessly by adding or deleting expenses, categorizing them for better organization, and viewing your financial habits in a clear and intuitive way.
 
+![splash screen](https://github.com/Akshitjha172/CipherX/assets/120534192/ae353223-a474-4c66-8177-dfa0fcb4dbc4)
+![login](https://github.com/Akshitjha172/CipherX/assets/120534192/95e15ec1-a3d3-48cc-9c01-6f9fb4fe3970)
+![dashborad](https://github.com/Akshitjha172/CipherX/assets/120534192/9cd344eb-dcc3-419a-a809-f4203aff38d5)
+![add expense](https://github.com/Akshitjha172/CipherX/assets/120534192/fb1a9954-e09d-406b-9f67-642fac9026a5)
+
+
 
 
 Features
